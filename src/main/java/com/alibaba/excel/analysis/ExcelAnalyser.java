@@ -10,7 +10,7 @@ import com.alibaba.excel.read.metadata.ReadSheet;
  *
  * @author jipengfei
  */
-public interface ExcelAnalyser {
+public interface  ExcelAnalyser {
     /**
      * parse the sheet
      *
